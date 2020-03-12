@@ -91,6 +91,7 @@ public class mybatisTest {
         for(Emp e:list){
             System.out.println(e);
         }
+        System.out.println("tom");
     }
 
 
