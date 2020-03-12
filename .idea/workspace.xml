@@ -45,7 +45,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/domain/Emp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
@@ -66,7 +66,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/itheima/test/mybatisTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="320">
@@ -199,6 +199,27 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="mybatis_zy1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis_zy1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis_zy1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis_zy1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis_zy1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis_zy1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -232,7 +253,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.mybatisTest.insertEmp">
+  <component name="RunManager" selected="JUnit.mybatisTest.findEmpBysal">
     <configuration name="mybatisTest.UpdateEmp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mybatis_zy1" />
       <extension name="coverage">
@@ -315,9 +336,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.mybatisTest.findEmpBysal" />
         <item itemvalue="JUnit.mybatisTest.insertEmp" />
         <item itemvalue="JUnit.mybatisTest.UpdateEmp" />
-        <item itemvalue="JUnit.mybatisTest.findEmpBysal" />
         <item itemvalue="JUnit.mybatisTest.findEmpAll" />
         <item itemvalue="JUnit.mybatisTest.getEmpByid" />
       </list>
@@ -339,7 +360,7 @@
       <workItem from="1583929539732" duration="3107000" />
       <workItem from="1583932708629" duration="772000" />
       <workItem from="1583992410785" duration="3405000" />
-      <workItem from="1583998037249" duration="1223000" />
+      <workItem from="1583998037249" duration="2164000" />
     </task>
     <task id="LOCAL-00001" summary="hello">
       <created>1583994978613</created>
@@ -355,13 +376,17 @@
       <option name="project" value="LOCAL" />
       <updated>1583995467421</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="提交">
+      <created>1583999920110</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583999920110</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="mybatisTest_findEmpAll - 2020.03.11 at 20h 53m 21s.xml">
-      <configuration name="mybatisTest.findEmpAll" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="mybatisTest_findEmpBysal - 2020.03.11 at 20h 59m 47s.xml">
       <configuration name="mybatisTest.findEmpBysal" configurationId="JUnit" />
     </history-entry>
@@ -389,9 +414,12 @@
     <history-entry file="mybatisTest_insertEmp - 2020.03.11 at 21h 16m 08s.xml">
       <configuration name="mybatisTest.insertEmp" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="mybatisTest_findEmpBysal - 2020.03.12 at 15h 59m 28s.xml">
+      <configuration name="mybatisTest.findEmpBysal" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12772000" />
+    <option name="totallyTimeSpent" value="13713000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -405,7 +433,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2624161" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26174498" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -414,7 +442,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3536932" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2911932" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2905983" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -423,8 +451,8 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Version Control" order="11" visible="true" weight="0.32905984" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.26647967" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32905984" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.26638177" />
       <window_info anchor="bottom" id="Tail" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -446,7 +474,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello" />
     <MESSAGE value="tom" />
-    <option name="LAST_COMMIT_MESSAGE" value="tom" />
+    <MESSAGE value="提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -504,20 +533,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/itheima/test/mybatisTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/domain/Emp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="93" column="34" lean-forward="true" selection-start-line="93" selection-start-column="34" selection-end-line="93" selection-end-column="34" />
+        <state relative-caret-position="165">
+          <caret line="8" column="9" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itheima/domain/Emp.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/itheima/test/mybatisTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="8" column="9" selection-end-line="19" />
+        <state relative-caret-position="320">
+          <caret line="93" column="34" lean-forward="true" selection-start-line="93" selection-start-column="34" selection-end-line="93" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

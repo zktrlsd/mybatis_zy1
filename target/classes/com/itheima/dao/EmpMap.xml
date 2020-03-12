@@ -35,6 +35,4 @@
     <select id="findEmpBysal" resultMap="Empmap">
         select * from EMP where (SAL+COMM) between #{param1} and #{param2}
     </select>
-
-
 </mapper>
