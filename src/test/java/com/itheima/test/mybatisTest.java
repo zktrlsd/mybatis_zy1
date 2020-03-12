@@ -92,7 +92,7 @@ public class mybatisTest {
             System.out.println(e);
         }
         System.out.println("tom");
-        System.out.println("tom2");
+
     }
 
 
